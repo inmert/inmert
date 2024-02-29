@@ -1,6 +1,4 @@
 ![Header](github-header-image.png)
-[![](https://img.shields.io/badge/LinkedIn-inmert-blue)](https://www.linkedin.com/in/inmert/)
-[![](https://img.shields.io/badge/Gmail-philosopriyan-red)](mailto:philosopriyan@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
