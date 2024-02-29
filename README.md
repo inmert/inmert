@@ -1,4 +1,4 @@
-### Hi there, glad to have you here!
+![Header](github-header-image.png)
 [![](https://img.shields.io/badge/LinkedIn-inmert-blue)](https://www.linkedin.com/in/inmert/)
 [![](https://img.shields.io/badge/Gmail-philosopriyan-red)](mailto:philosopriyan@gmail.com)
 
